@@ -140,7 +140,7 @@ install_s-ui() {
             echo -e "${red}Failed to fetch s-ui version, it maybe due to Github API restrictions, please try it later${plain}"
             exit 1
         fi
-        echo -e "Got s-ui latest version: ${last_version}, beginning the installation..."
+        echo -e "Got S-UI latest version: ${last_version}, beginning the installation..."
         wget -N --no-check-certificate -O /tmp/s-ui-linux-$(arch).tar.gz https://github.com/xsyplanet/s-ui/releases/download/${last_version}/s-ui-linux-$(arch).tar.gz
         if [[ $? -ne 0 ]]; then
             echo -e "${red}Downloading s-ui failed, please be sure that your server can access Github ${plain}"
