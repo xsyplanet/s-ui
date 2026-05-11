@@ -42,7 +42,7 @@
 
 ### Linux/macOS
 ```sh
-bash <(curl -Ls https://raw.githubusercontent.com/xsyplanet1/s-ui/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/xsyplanet/s-ui/main/install.sh)
 ```
 
 ### Windows
