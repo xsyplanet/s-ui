@@ -152,4 +152,4 @@ certbot certonly --standalone --register-unsafely-without-email --non-interactiv
 </details>
 
 ## 原 S-UI 项目 Star 时间趋势表
-[![Stargazers over time](https://starchart.cc/alireza0/s-ui.svg)](https://starchart.cc/alireza0/s-ui)
+[![Stargazers over time](https://starchart.cc/alireza0/s-ui.svg)](https://www.star-history.com/?repos=alireza0/s-ui&type=date&releases=&legend=bottom-right)
