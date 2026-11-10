@@ -2,7 +2,7 @@
 
 [English](https://github.com/xsyplanet/s-ui/blob/main/README_Backup.md) | [简体中文](https://github.com/xsyplanet/s-ui/blob/main/README.md)
 
-**一个基于 SagerNet/Sing-Box 构建的高级 Web 面板 • 请支持原作者 alireza0**
+**一个基于 SagerNet/Sing-Box 构建的高级 Web 面板 • 请支持原作者 [alireza0](https://github.com/alireza0)**
 
 > **免责声明:** 本项目仅供个人学习和交流使用，请勿将其用于非法用途
 
